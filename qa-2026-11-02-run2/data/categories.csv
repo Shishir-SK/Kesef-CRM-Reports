@@ -1,4 +1,4 @@
 "BROKEN","CATEGORY","FAILED","PASSED","SKIPPED","UNKNOWN"
-"12","Unclassified failures — investigate before assigning cause","69","0","0","0"
-"8","Locator or timing failures","12","0","0","0"
-"0","Authentication or session failures","1","0","0","0"
+"23","Unclassified failures — investigate before assigning cause","42","0","0","0"
+"19","Locator or timing failures","9","0","0","0"
+"0","Authentication or session failures","2","0","0","0"
