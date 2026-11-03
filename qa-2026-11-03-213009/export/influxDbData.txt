@@ -1,0 +1,15 @@
+launch_status failed=8 1793721608000000000
+launch_status broken=2 1793721608000000000
+launch_status passed=1142 1793721608000000000
+launch_status skipped=0 1793721608000000000
+launch_status unknown=0 1793721608000000000
+launch_time duration=116874248 1793721608000000000
+launch_time min_duration=0 1793721608000000000
+launch_time max_duration=974139 1793721608000000000
+launch_time sum_duration=11097188 1793721608000000000
+launch_time start=1793604724487 1793721608000000000
+launch_time stop=1793721598735 1793721608000000000
+launch_problems unclassified_failures_—_investigate_before_assigning_cause=10 1793721608000000000
+launch_problems locator_or_timing_failures=5 1793721608000000000
+launch_retries retries=0 1793721608000000000
+launch_retries run=1152 1793721608000000000

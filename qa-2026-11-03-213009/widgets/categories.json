@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"97d12cc3701dcf2102f6bad4f97370ca","name":"Unclassified failures — investigate before assigning cause","statistic":{"failed":8,"broken":2,"skipped":0,"passed":0,"unknown":0,"total":10}},{"uid":"9ac8ae1ded1e42ccda33eacc519eed35","name":"Locator or timing failures","statistic":{"failed":3,"broken":2,"skipped":0,"passed":0,"unknown":0,"total":5}}]}
