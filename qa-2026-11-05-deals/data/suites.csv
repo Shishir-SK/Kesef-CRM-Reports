@@ -1,90 +1,4 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"Objective: Deals exact ID and unique partial merchant searches match API identities.
-Preconditions: Open Deals with the configured test data.
-Steps:
-1. Open Deals.
-2. Deals exact ID and unique partial merchant searches match API identities.
-3. Observe the resulting state.
-Expected: The behavior named in the scenario is observed and its assertions pass.","10954","Deals exact ID and unique partial merchant searches match API identities","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
-"Objective: Merchant Statements tab renders statements and opens statement preview dialog.
-Preconditions: Open Deals with the configured test data.
-Steps:
-1. Open Deals.
-2. Merchant Statements tab renders statements and opens statement preview dialog.
-3. Observe the resulting state.
-Expected: The behavior named in the scenario is observed and its assertions pass.","19736","Merchant Statements tab renders statements and opens statement preview dialog","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
-"Objective: Deal Details overview and Deal Info reconcile with the deal detail API.
-Preconditions: Open Deals with the configured test data.
-Steps:
-1. Open Deals.
-2. Deal Details overview and Deal Info reconcile with the deal detail API.
-3. Observe the resulting state.
-Expected: The behavior named in the scenario is observed and its assertions pass.","29156","Deal Details overview and Deal Info reconcile with the deal detail API","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
-"Objective: Business Overview fields and portfolio metrics reconcile with authoritative API data.
-Preconditions: Open Deals with the configured test data.
-Steps:
-1. Open Deals.
-2. Business Overview fields and portfolio metrics reconcile with authoritative API data.
-3. Observe the resulting state.
-Expected: The behavior named in the scenario is observed and its assertions pass.","12099","Business Overview fields and portfolio metrics reconcile with authoritative API data","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
-"1. Sign in and open Deals.
-2. Wait for a populated row.
-3. Open that row's action menu.
-4. Verify the menu offers exactly View Details, without changing the deal.
-Staging (22 Oct 2026) removed Archive Deal from the row menu and the deal page.","9697","Each populated deal row exposes the View Details action","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
-"1. Sign in and open Deals.
-2. Open Filter and choose the confirmed New Deal option.
-3. Apply the filter.
-4. Verify the drawer closes and the active filter is shown with a settled grid.","15805","Deals filter drawer applies a deal type and exposes the active filter","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
-"Objective: Searching a known Deal, opening its Merchant Details, and navigating back restores search state.
-Preconditions: Open Deals with the configured test data.
-Steps:
-1. Open Deals.
-2. Searching a known Deal, opening its Merchant Details, and navigating back restores search state.
-3. Observe the resulting state.
-Expected: The expected records, controls, or page state are displayed.","12926","Searching a known Deal, opening its Merchant Details, and navigating back restores search state","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
-"Objective: Merchant Overview fields and portfolio metrics reconcile with the client-info API.
-Preconditions: Open Deals with the configured test data.
-Steps:
-1. Open Deals.
-2. Merchant Overview fields and portfolio metrics reconcile with the client-info API.
-3. Observe the resulting state.
-Expected: The behavior named in the scenario is observed and its assertions pass.","11317","Merchant Overview fields and portfolio metrics reconcile with the client-info API","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
-"Objective: Deals listing exposes core portfolio columns.
-Preconditions: Open Deals with the configured test data.
-Steps:
-1. Open Deals.
-2. Deals listing exposes core portfolio columns.
-3. Observe the resulting state.
-Expected: The expected records, controls, or page state are displayed.","874","Deals listing exposes core portfolio columns","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
-"Objective: Deals workspace remains operable on a narrow mobile viewport.
-Preconditions: Open Deals with the configured test data.
-Steps:
-1. Open Deals.
-2. Deals workspace remains operable on a narrow mobile viewport.
-3. Observe the resulting state.
-Expected: The behavior named in the scenario is observed and its assertions pass.","34843","Deals workspace remains operable on a narrow mobile viewport","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
-"Objective: Deals operational filters match server results.
-Preconditions: Open Deals with the configured test data.
-Steps:
-1. Open Deals.
-2. Deals operational filters match server results.
-3. Observe the resulting state.
-Expected: The behavior named in the scenario is observed and its assertions pass.","17220","test_deals_operational_filters_match_server_results[assigned_to]","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
-"Objective: Deals Create View collapses a toggled column and restores it after page reload.
-Preconditions: Open Deals with the configured test data.
-Steps:
-1. Open Deals.
-2. Deals Create View collapses a toggled column and restores it after page reload.
-3. Observe the resulting state.
-Expected: The same data and state remain available after the reload or subsequent lookup.","11947","Deals Create View collapses a toggled column and restores it after page reload","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
-"Objective: Business Documents tab renders documents and opens document preview.
-Preconditions: Open Deals with the configured test data.
-Steps:
-1. Open Deals.
-2. Business Documents tab renders documents and opens document preview.
-3. Observe the resulting state.
-Expected: The behavior named in the scenario is observed and its assertions pass.","12148","Business Documents tab renders documents and opens document preview","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
 "Objective: Deals filters reset pagination and Clear restores unfiltered All Deals.
 Preconditions: Open Deals with the configured test data.
 Steps:
@@ -92,13 +6,41 @@ Steps:
 2. Deals filters reset pagination and Clear restores unfiltered All Deals.
 3. Observe the resulting state.
 Expected: The behavior named in the scenario is observed and its assertions pass.","40413","Deals filters reset pagination and Clear restores unfiltered All Deals","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
+"Objective: Deal Details overview and Deal Info reconcile with the deal detail API.
+Preconditions: Open Deals with the configured test data.
+Steps:
+1. Open Deals.
+2. Deal Details overview and Deal Info reconcile with the deal detail API.
+3. Observe the resulting state.
+Expected: The behavior named in the scenario is observed and its assertions pass.","29156","Deal Details overview and Deal Info reconcile with the deal detail API","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
+"Objective: Deals From and To dates are inclusive and match every Funded On value.
+Preconditions: Open Deals with the configured test data.
+Steps:
+1. Open Deals.
+2. Deals From and To dates are inclusive and match every Funded On value.
+3. Observe the resulting state.
+Expected: The behavior named in the scenario is observed and its assertions pass.","21036","Deals From and To dates are inclusive and match every Funded On value","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
 "Objective: Deals operational filters match server results.
 Preconditions: Open Deals with the configured test data.
 Steps:
 1. Open Deals.
 2. Deals operational filters match server results.
 3. Observe the resulting state.
-Expected: The behavior named in the scenario is observed and its assertions pass.","15161","test_deals_operational_filters_match_server_results[brokerage]","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
+Expected: The behavior named in the scenario is observed and its assertions pass.","17238","test_deals_operational_filters_match_server_results[deal_type]","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
+"Objective: Deals operational filters match server results.
+Preconditions: Open Deals with the configured test data.
+Steps:
+1. Open Deals.
+2. Deals operational filters match server results.
+3. Observe the resulting state.
+Expected: The behavior named in the scenario is observed and its assertions pass.","17220","test_deals_operational_filters_match_server_results[assigned_to]","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
+"Objective: Merchant Documents tab renders uploaded files, supports document search, and opens preview.
+Preconditions: Open Deals with the configured test data.
+Steps:
+1. Open Deals.
+2. Merchant Documents tab renders uploaded files, supports document search, and opens preview.
+3. Observe the resulting state.
+Expected: The expected records, controls, or page state are displayed.","12870","Merchant Documents tab renders uploaded files, supports document search, and opens preview","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
 "Objective: Every rendered first-page Deal field matches the all-deals API.
 Preconditions: Open Deals with the configured test data.
 Steps:
@@ -107,6 +49,52 @@ Steps:
 3. Observe the resulting state.
 Expected: The behavior named in the scenario is observed and its assertions pass.","5568","Every rendered first-page Deal field matches the all-deals API","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
 "1. Sign in and open Deals.
+2. Open the Deals per Page selector.
+3. Verify the supported 10, 25, and 50 options are available.
+4. Select 25 and verify the selected page size is retained.","9475","Deals page-size menu exposes the supported page sizes","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
+"Objective: Searching a known Deal, opening its Merchant Details, and navigating back restores search state.
+Preconditions: Open Deals with the configured test data.
+Steps:
+1. Open Deals.
+2. Searching a known Deal, opening its Merchant Details, and navigating back restores search state.
+3. Observe the resulting state.
+Expected: The expected records, controls, or page state are displayed.","12926","Searching a known Deal, opening its Merchant Details, and navigating back restores search state","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
+"Objective: Deals listing exposes core portfolio columns.
+Preconditions: Open Deals with the configured test data.
+Steps:
+1. Open Deals.
+2. Deals listing exposes core portfolio columns.
+3. Observe the resulting state.
+Expected: The expected records, controls, or page state are displayed.","874","Deals listing exposes core portfolio columns","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
+"Objective: Deals exact ID and unique partial merchant searches match API identities.
+Preconditions: Open Deals with the configured test data.
+Steps:
+1. Open Deals.
+2. Deals exact ID and unique partial merchant searches match API identities.
+3. Observe the resulting state.
+Expected: The behavior named in the scenario is observed and its assertions pass.","10954","Deals exact ID and unique partial merchant searches match API identities","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
+"Objective: Converted Deal carries the accepted offer, underwriter, merchant, broker commission, Stipulations bank account and the calculator buyout.
+Preconditions: Open Deal handoff with the configured test data.
+Steps:
+1. Open Deal handoff.
+2. Converted Deal carries the accepted offer, underwriter, merchant, broker commission, Stipulations bank account and the calculator buyout.
+3. Observe the resulting state.
+Expected: The behavior named in the scenario is observed and its assertions pass.","320093","Converted Deal carries the accepted offer, underwriter, merchant, broker commission, Stipulations bank account and the calculator buyout","tests.e2e.deals","2026-11-05","failed","2026-11-05","","test_deal_handoff","",""
+"Objective: Deals operational filters match server results.
+Preconditions: Open Deals with the configured test data.
+Steps:
+1. Open Deals.
+2. Deals operational filters match server results.
+3. Observe the resulting state.
+Expected: The behavior named in the scenario is observed and its assertions pass.","15161","test_deals_operational_filters_match_server_results[brokerage]","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
+"Objective: Business Overview fields and portfolio metrics reconcile with authoritative API data.
+Preconditions: Open Deals with the configured test data.
+Steps:
+1. Open Deals.
+2. Business Overview fields and portfolio metrics reconcile with authoritative API data.
+3. Observe the resulting state.
+Expected: The behavior named in the scenario is observed and its assertions pass.","12099","Business Overview fields and portfolio metrics reconcile with authoritative API data","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
+"1. Sign in and open Deals.
 2. Enter a long Unicode search value.
 3. Wait for the search response to settle.
 4. Verify the workspace remains usable and shows either matching rows or the empty state.","3274","Deals search safely handles a long Unicode query","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
@@ -114,31 +102,25 @@ Expected: The behavior named in the scenario is observed and its assertions pass
 2. Select the requested lifecycle tab and wait for loading to finish.
 3. Verify the selected tab and Deals grid.
 4. Return to All Deals and verify the default workspace is restored.","13127","Each implemented Deals lifecycle tab selects its matching workspace","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
+"Objective: Merchant Statements tab renders statements and opens statement preview dialog.
+Preconditions: Open Deals with the configured test data.
+Steps:
+1. Open Deals.
+2. Merchant Statements tab renders statements and opens statement preview dialog.
+3. Observe the resulting state.
+Expected: The behavior named in the scenario is observed and its assertions pass.","19736","Merchant Statements tab renders statements and opens statement preview dialog","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
 "1. Sign in and open Deals.
-2. Select the requested lifecycle tab and wait for loading to finish.
-3. Verify the selected tab and Deals grid.
-4. Return to All Deals and verify the default workspace is restored.","12579","Each implemented Deals lifecycle tab selects its matching workspace","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
-"Objective: Ready Deals lifecycle filter opens the ready-deal workspace.
+2. Wait for a populated row.
+3. Open that row's action menu.
+4. Verify the menu offers exactly View Details, without changing the deal.
+Staging (22 Oct 2026) removed Archive Deal from the row menu and the deal page.","9697","Each populated deal row exposes the View Details action","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
+"Objective: Merchant Overview fields and portfolio metrics reconcile with the client-info API.
 Preconditions: Open Deals with the configured test data.
 Steps:
 1. Open Deals.
-2. Ready Deals lifecycle filter opens the ready-deal workspace.
+2. Merchant Overview fields and portfolio metrics reconcile with the client-info API.
 3. Observe the resulting state.
-Expected: The expected records, controls, or page state are displayed.","10542","Ready Deals lifecycle filter opens the ready-deal workspace","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
-"Objective: Deals From and To dates are inclusive and match every Funded On value.
-Preconditions: Open Deals with the configured test data.
-Steps:
-1. Open Deals.
-2. Deals From and To dates are inclusive and match every Funded On value.
-3. Observe the resulting state.
-Expected: The behavior named in the scenario is observed and its assertions pass.","21036","Deals From and To dates are inclusive and match every Funded On value","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
-"Objective: Merchant Documents tab renders uploaded files, supports document search, and opens preview.
-Preconditions: Open Deals with the configured test data.
-Steps:
-1. Open Deals.
-2. Merchant Documents tab renders uploaded files, supports document search, and opens preview.
-3. Observe the resulting state.
-Expected: The expected records, controls, or page state are displayed.","12870","Merchant Documents tab renders uploaded files, supports document search, and opens preview","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
+Expected: The behavior named in the scenario is observed and its assertions pass.","11317","Merchant Overview fields and portfolio metrics reconcile with the client-info API","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
 "Objective: Deals filter and search context is maintained through related entity navigation and back.
 Preconditions: Open Deals with the configured test data.
 Steps:
@@ -146,13 +128,6 @@ Steps:
 2. Deals filter and search context is maintained through related entity navigation and back.
 3. Observe the resulting state.
 Expected: The expected records, controls, or page state are displayed.","23219","Deals filter and search context is maintained through related entity navigation and back","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
-"Objective: Converted Deal carries the accepted offer, underwriter, merchant, broker commission, Stipulations bank account and the calculator buyout.
-Preconditions: Open Deal handoff with the configured test data.
-Steps:
-1. Open Deal handoff.
-2. Converted Deal carries the accepted offer, underwriter, merchant, broker commission, Stipulations bank account and the calculator buyout.
-3. Observe the resulting state.
-Expected: The behavior named in the scenario is observed and its assertions pass.","304550","Converted Deal carries the accepted offer, underwriter, merchant, broker commission, Stipulations bank account and the calculator buyout","tests.e2e.deals","2026-11-05","broken","2026-11-05","","test_deal_handoff","",""
 "Objective: Deals search shows an empty state for an unknown query.
 Preconditions: Open Deals with the configured test data.
 Steps:
@@ -160,13 +135,24 @@ Steps:
 2. Deals search shows an empty state for an unknown query.
 3. Observe the resulting state.
 Expected: The expected records, controls, or page state are displayed.","2827","Deals search shows an empty state for an unknown query","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
-"Objective: Deals partial Deal ID and Business searches match API identities across all rendered rows.
+"Objective: Business Documents tab renders documents and opens document preview.
 Preconditions: Open Deals with the configured test data.
 Steps:
 1. Open Deals.
-2. Deals partial Deal ID and Business searches match API identities across all rendered rows.
+2. Business Documents tab renders documents and opens document preview.
 3. Observe the resulting state.
-Expected: The behavior named in the scenario is observed and its assertions pass.","19291","Deals partial Deal ID and Business searches match API identities across all rendered rows","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
+Expected: The behavior named in the scenario is observed and its assertions pass.","12148","Business Documents tab renders documents and opens document preview","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
+"1. Sign in and open Deals.
+2. Select the requested lifecycle tab and wait for loading to finish.
+3. Verify the selected tab and Deals grid.
+4. Return to All Deals and verify the default workspace is restored.","12579","Each implemented Deals lifecycle tab selects its matching workspace","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
+"Objective: Deals Create View collapses a toggled column and restores it after page reload.
+Preconditions: Open Deals with the configured test data.
+Steps:
+1. Open Deals.
+2. Deals Create View collapses a toggled column and restores it after page reload.
+3. Observe the resulting state.
+Expected: The same data and state remain available after the reload or subsequent lookup.","11947","Deals Create View collapses a toggled column and restores it after page reload","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
 "Objective: Lifecycle, Deal Type, and search constraints intersect in Deals.
 Preconditions: Open Deals with the configured test data.
 Steps:
@@ -174,14 +160,28 @@ Steps:
 2. Lifecycle, Deal Type, and search constraints intersect in Deals.
 3. Observe the resulting state.
 Expected: The expected records, controls, or page state are displayed.","24250","Lifecycle, Deal Type, and search constraints intersect in Deals","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
-"1. Sign in and open Deals.
-2. Open the Deals per Page selector.
-3. Verify the supported 10, 25, and 50 options are available.
-4. Select 25 and verify the selected page size is retained.","9475","Deals page-size menu exposes the supported page sizes","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
-"Objective: Deals operational filters match server results.
+"Objective: Deals workspace remains operable on a narrow mobile viewport.
 Preconditions: Open Deals with the configured test data.
 Steps:
 1. Open Deals.
-2. Deals operational filters match server results.
+2. Deals workspace remains operable on a narrow mobile viewport.
 3. Observe the resulting state.
-Expected: The behavior named in the scenario is observed and its assertions pass.","17238","test_deals_operational_filters_match_server_results[deal_type]","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
+Expected: The behavior named in the scenario is observed and its assertions pass.","34843","Deals workspace remains operable on a narrow mobile viewport","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
+"Objective: Deals partial Deal ID and Business searches match API identities across all rendered rows.
+Preconditions: Open Deals with the configured test data.
+Steps:
+1. Open Deals.
+2. Deals partial Deal ID and Business searches match API identities across all rendered rows.
+3. Observe the resulting state.
+Expected: The behavior named in the scenario is observed and its assertions pass.","19291","Deals partial Deal ID and Business searches match API identities across all rendered rows","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
+"Objective: Ready Deals lifecycle filter opens the ready-deal workspace.
+Preconditions: Open Deals with the configured test data.
+Steps:
+1. Open Deals.
+2. Ready Deals lifecycle filter opens the ready-deal workspace.
+3. Observe the resulting state.
+Expected: The expected records, controls, or page state are displayed.","10542","Ready Deals lifecycle filter opens the ready-deal workspace","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
+"1. Sign in and open Deals.
+2. Open Filter and choose the confirmed New Deal option.
+3. Apply the filter.
+4. Verify the drawer closes and the active filter is shown with a settled grid.","15805","Deals filter drawer applies a deal type and exposes the active filter","tests.e2e.deals","2026-11-04","passed","2026-11-04","TestDealsReadOnly","test_deals_readonly","",""
