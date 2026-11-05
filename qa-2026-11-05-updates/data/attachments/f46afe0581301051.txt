@@ -1,0 +1,30 @@
+OK  Funding Amount: source='$20,000' deal='$20,000'
+OK  Funding Amount (API): source=20000.0 deal=20000.0
+OK  Factor Rate: source='1.54' deal='1.54'
+OK  Payback Amount: source='$30,800' deal='$30,800'
+OK  Payment Amount: source='$1,400' deal='$1,400'
+OK  Repayment Frequency: source='Weekly' deal='Weekly'
+OK  Term: source='22 Weeks' deal='22 Weeks'
+OK  Funding Position: source='1st Position' deal='1st Position'
+OK  UW Fee %: source='4%' deal='4%'
+OK  UW Fee Amount: source='$800' deal='$800'
+OK  Pad Fee: source='$100' deal='$100'
+OK  Underwriter: source='Underwriter Two' deal='Underwriter Two'
+OK  Underwriter (API id): source='34bf33a6-a361-4449-b77c-8f2b2e25b99e' deal='34bf33a6-a361-4449-b77c-8f2b2e25b99e'
+BAD Underwriter Email: source='underwriter2@kmcapital.ca' deal=None
+OK  Merchant Name: source='Noah Beaulieu' deal='Noah Beaulieu'
+OK  Merchant Email: source='notifications@mailzyng.com' deal='notifications@mailzyng.com'
+OK  Merchant Email (API): source='notifications@mailzyng.com' deal='notifications@mailzyng.com'
+OK  Broker Commission: source='$800' deal='$800'
+OK  Broker Commission %: source='4%' deal='4%'
+OK  Broker Commission (API): source=800.0 deal=800.0
+OK  Broker Commission % (API): source=4.0 deal=4.0
+OK  Institution Number: source='003' deal='003'
+OK  Transit Number: source='12345' deal='12345'
+OK  Account Number: source='358715807084' deal='358715807084'
+OK  Financial Institution: source='Royal Bank of Canada' deal='Royal Bank of Canada'
+OK  Account Number (API): source='358715807084' deal='358715807084'
+BAD Buyouts (API): source=[('Fundifi', 1500.0)] deal=[('', 1500.0)]
+OK  Is Buyout: source='Yes' deal='Yes'
+OK  Buyout lender Fundifi: source=True deal=True
+OK  Buyout amount 1,500.00: source=True deal=True
