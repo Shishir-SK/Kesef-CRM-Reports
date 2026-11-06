@@ -1,0 +1,2 @@
+Primary owner: Nora Ouellet <notifications@mailzyng.com>
+Merchant Details: {'Merchant Name': 'Nora Ouellet', 'Merchant Email': 'notifications@mailzyng.com'}
