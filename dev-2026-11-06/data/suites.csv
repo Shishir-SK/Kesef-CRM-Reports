@@ -1,0 +1,36 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Objective: Payment frequency toggle keeps Min Max labels and converts values.
+Preconditions: Kesef CRM QA is available at the exact configured origin; use a fresh browser context, the configured authorized test account, and isolated automation-owned data.
+Steps:
+1. Satisfy the stated QA, role, seed, recipient and isolation preconditions before any mutation.
+2. Log in and open a deal with the calculator.
+3. Enter calculator inputs that produce a non-zero offer.
+4. Select daily payments and record Min/Max payment values.
+5. Select weekly payments.
+6. Verify Min and Max labels remain visible.
+7. Verify the payment values change for weekly frequency.
+8. Evaluate the encoded observable UI/service checks: `assert_payment_amounts_change_after_frequency_toggle`.
+9. Record any mismatch as a normal failure; do not skip, xfail, silently retry, or weaken the assertion.
+Expected: 1. Observable scenario outcome: Payment frequency toggle keeps Min Max labels and converts values.
+2. Verify Min and Max labels remain visible.
+3. Verify the payment values change for weekly frequency.
+4. The encoded UI/service checks pass: Payment amounts change after frequency toggle.
+5. No unintended record, state transition, notification, or cross-test data residue is produced.","14744","Payment frequency toggle keeps Min Max labels and converts values","tests.e2e.calculator","2026-11-06","failed","2026-11-06","TestCalculator","test_calculator","",""
+"Objective: Payment frequency converts daily and weekly payments.
+Preconditions: Kesef CRM QA is available at the exact configured origin; use a fresh browser context, the configured authorized test account, and isolated automation-owned data.
+Steps:
+1. Satisfy the stated QA, role, seed, recipient and isolation preconditions before any mutation.
+2. Log in and open a deal with the calculator.
+3. Enter a range offer with min and max amounts.
+4. Select Daily Payments and record payment values.
+5. Select Weekly Payments and record payment values.
+6. Verify weekly payments are higher than daily payments and Min/Max labels remain visible.
+7. Execute the page/API action `calculator_page.select_payment_frequency` (select payment frequency).
+8. Evaluate the encoded observable UI/service checks: `assert_min_max_payment_labels_visible`.
+9. Evaluate the deterministic assertion(s): `weekly_min >= daily_min`; `weekly_max > daily_max`.
+10. Record any mismatch as a normal failure; do not skip, xfail, silently retry, or weaken the assertion.
+Expected: 1. Observable scenario outcome: Payment frequency converts daily and weekly payments.
+2. Verify weekly payments are higher than daily payments and Min/Max labels remain visible.
+3. The encoded UI/service checks pass: Min max payment labels visible.
+4. The authoritative deterministic expression(s) evaluate as encoded: `weekly_min >= daily_min`; `weekly_max > daily_max`.
+5. No unintended record, state transition, notification, or cross-test data residue is produced.","14473","Payment frequency converts daily and weekly payments","tests.e2e.calculator","2026-11-06","failed","2026-11-06","TestCalculator","test_calculator","",""
