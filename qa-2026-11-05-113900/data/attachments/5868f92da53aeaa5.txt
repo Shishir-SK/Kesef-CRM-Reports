@@ -1,2 +1,0 @@
-Primary owner: Avery Kepler <notifications@mailzyng.com>
-Merchant Details: {'Merchant Name': 'Michael Cotic', 'Merchant Email': '-'}
