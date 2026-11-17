@@ -1,4 +1,4 @@
-launch_status_failed 54
+launch_status_failed 21
 launch_status_broken 0
 launch_status_passed 1193
 launch_status_skipped 0
@@ -9,7 +9,7 @@ launch_time_max_duration 289527
 launch_time_sum_duration 10277513
 launch_time_start 1794892005565
 launch_time_stop 1794905879544
-launch_problems_unclassified_failures_—_investigate_before_assigning_cause 54
+launch_problems_unclassified_failures_—_investigate_before_assigning_cause 21
 launch_problems_locator_or_timing_failures 2
 launch_retries_retries 152
-launch_retries_run 1247
+launch_retries_run 1214
