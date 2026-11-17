@@ -1,1 +1,1 @@
-{"reportName":"Kesef CRM Automation Test","testRuns":[],"statistic":{"failed":10,"broken":0,"skipped":0,"passed":1198,"unknown":0,"total":1208},"time":{"start":1794892005565,"stop":1794908297872,"duration":16292307,"minDuration":0,"maxDuration":289527,"sumDuration":10446845}}
+{"reportName":"Kesef CRM Automation Test","testRuns":[],"statistic":{"failed":9,"broken":0,"skipped":0,"passed":1198,"unknown":0,"total":1207},"time":{"start":1794892005565,"stop":1794908297872,"duration":16292307,"minDuration":0,"maxDuration":289527,"sumDuration":10438877}}
