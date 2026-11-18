@@ -1,0 +1,1 @@
+Stipulations API owners: 1 [('Second', 'Owner', 'notifications@mailzyng.com', 50.0)]; owner cards shown in Stipulations UI: 1
