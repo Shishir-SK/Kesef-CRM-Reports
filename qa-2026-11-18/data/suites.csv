@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Objective: A user without Access Management permission sees no User & Access navigation.
+Preconditions: Kesef CRM QA; USER_MANAGEMENT_VIEWER_* names an active account with no Access Management permission; USER_MANAGEMENT_MANAGER_* names a dedicated non-admin account the suite may disable and re-enable. Without them the test fails as BLOCKED.
+Steps:
+1. Sign in as the restricted account.
+2. Read the navigation.
+Expected: No User Management, Roles, Permission Sets or Teams link.","7377","A user without Access Management permission sees no User & Access navigation","tests.e2e.auth","2026-11-18","passed","2026-11-18","TestRestrictedRoleEnforcement","test_role_enforcement","",""
