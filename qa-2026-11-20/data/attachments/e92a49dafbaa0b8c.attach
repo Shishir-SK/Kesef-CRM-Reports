@@ -1,0 +1,5 @@
+Text differs: template '$65,' -> contract '$65.00,'
+Text differs: template '' -> contract '1'
+Text differs: template '•' -> contract '1.'
+Text differs: template '' -> contract '1'
+Text differs: template '' -> contract '_____________________________________________'
