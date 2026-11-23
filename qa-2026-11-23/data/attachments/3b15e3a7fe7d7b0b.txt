@@ -1,0 +1,211 @@
+Nov 23, 2026 | 1:07 AM
+
+Offer Range
+
+$10,000 - $50,500
+
+Accepted
+
+Net Funding
+
+$9,400 - $47,875
+
+Buy Rate
+
+1.36
+
+Payback Amount
+
+$71,710
+
+Payment Amount
+
+$512 Weekly
+
+Term
+
+140 Weeks
+
+Funding Position
+
+1st Position
+
+Sell Rate
+
+1.42
+
+Broker Commission
+
+$3,030 | 6
+
+Funding Summary
+
+Min Offer Amount
+
+Gross Funding
+
+$10,000
+
+PAD Fee
+
+- $100
+
+UW Fee
+
+- $500
+
+Net Funding
+
+$9,400
+
+Max Offer Amount
+
+Gross Funding
+
+$50,500
+
+PAD Fee
+
+- $100
+
+UW Fee
+
+- $2,525
+
+Net Funding
+
+$47,875
+
+Underwriting details
+Notes
+
+QA rebuttal note R1123B: merchant prefers weekly Wednesday payments.
+
+Nov 23, 2026 • 1:07 AM
+
+----
+
+Nov 23, 2026 | 1:07 AM
+
+Requested Amount
+
+$50,500
+
+Rebuttal Request
+
+Term
+
+140 Weeks
+
+Payment Frequency
+
+Weekly
+
+Sell Rate
+
+1.42
+
+Payback
+
+$28,400
+
+Payment
+
+$1,290.91
+
+Broker Commission
+
+$1,200 | 6
+
+Accept
+Counter Offer
+Reject Rebuttal Request
+Notes
+
+QA rebuttal note R1123B: merchant prefers weekly Wednesday payments.
+
+Nov 23, 2026 • 1:07 AM
+Show Less
+
+----
+
+Nov 23, 2026 | 1:06 AM
+
+Offer Range
+
+$10,000 - $20,000
+
+Offer Created
+
+Net Funding
+
+$9,400 - $18,900
+
+Buy Rate
+
+1.36
+
+Payback Amount
+
+$28,800
+
+Payment Amount
+
+$130.91 - $261.82 Daily
+
+Term
+
+110 Business Days
+
+Funding Position
+
+1st Position
+
+Sell Rate
+
+1.44
+
+Broker Commission
+
+$0 | 0
+
+Funding Summary
+
+Min Offer Amount
+
+Gross Funding
+
+$10,000
+
+PAD Fee
+
+- $100
+
+UW Fee
+
+- $500
+
+Net Funding
+
+$9,400
+
+Max Offer Amount
+
+Gross Funding
+
+$20,000
+
+PAD Fee
+
+- $100
+
+UW Fee
+
+- $1,000
+
+Net Funding
+
+$18,900
+
+Underwriting details
+Show Less
