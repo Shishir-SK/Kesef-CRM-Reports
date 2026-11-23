@@ -1,0 +1,2 @@
+Primary owner: Samuel Lindqvist <notifications@mailzyng.com>
+Merchant Details: {'Merchant Name': 'Samuel Lindqvist', 'Merchant Email': 'notifications@mailzyng.com'}
