@@ -1,0 +1,2 @@
+negative days: HTTP 400 {'codeId': '000008', 'code': 'NUMERIC_VALUE_OUT_OF_RANGE', 'message': 'One of the entered or calculated numeric values is too large. Please adjust the starting balance or related transaction values and try again.', 'status': 'F'}
+potential payment declined: HTTP 400 {'codeId': '000008', 'code': 'NUMERIC_VALUE_OUT_OF_RANGE', 'message': 'One of the entered or calculated numeric values is too large. Please adjust the starting balance or related transaction values and try again.', 'status': 'F'}

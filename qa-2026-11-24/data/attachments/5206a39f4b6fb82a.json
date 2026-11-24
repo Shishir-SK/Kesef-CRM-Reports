@@ -1,0 +1,81 @@
+{
+  "request": [
+    {
+      "feeName": "PAD Fee",
+      "inputValue": 100,
+      "type": "FIXED"
+    },
+    {
+      "feeName": "UW Fee",
+      "inputValue": 1,
+      "type": "PERCENTAGE"
+    },
+    {
+      "feeName": "Other Fee",
+      "inputValue": 150,
+      "type": "PERCENTAGE"
+    }
+  ],
+  "status": 200,
+  "response": {
+    "resultInfo": {
+      "codeId": "000001",
+      "code": "SUCCESS",
+      "message": "Success",
+      "status": "S"
+    },
+    "data": {
+      "advanceAmount": 20000,
+      "minAdvanceAmount": 10000,
+      "maxAdvanceAmount": 20000,
+      "fees": [
+        {
+          "id": "2a351d92-2d31-4c64-a3c3-00c07af65e74",
+          "feeName": "PAD Fee",
+          "type": "FIXED",
+          "inputValue": 100,
+          "calculatedAmount": 100,
+          "minCalculatedAmount": 100,
+          "maxCalculatedAmount": 100,
+          "note": null,
+          "isDefault": true,
+          "sortOrder": 0
+        },
+        {
+          "id": "b15ccc08-f5be-4204-8a09-0caead20d6a7",
+          "feeName": "UW Fee",
+          "type": "PERCENTAGE",
+          "inputValue": 1,
+          "calculatedAmount": 200,
+          "minCalculatedAmount": 100,
+          "maxCalculatedAmount": 200,
+          "note": null,
+          "isDefault": true,
+          "sortOrder": 1
+        },
+        {
+          "id": "465691c2-46dc-45a9-bdbe-2e8a559db6cc",
+          "feeName": "Other Fee",
+          "type": "PERCENTAGE",
+          "inputValue": 150,
+          "calculatedAmount": 30000,
+          "minCalculatedAmount": 15000,
+          "maxCalculatedAmount": 30000,
+          "note": null,
+          "isDefault": false,
+          "sortOrder": 2
+        }
+      ],
+      "buyouts": [],
+      "totalFees": 30300,
+      "totalBuyouts": 0,
+      "minTotalFees": 15200,
+      "maxTotalFees": 30300,
+      "minTotalBuyouts": 0,
+      "maxTotalBuyouts": 0,
+      "netFunding": -10300,
+      "minNetFunding": -5200,
+      "maxNetFunding": -10300
+    }
+  }
+}
