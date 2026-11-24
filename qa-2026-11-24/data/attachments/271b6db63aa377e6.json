@@ -1,0 +1,64 @@
+{
+  "request": [
+    {
+      "feeName": "PAD Fee",
+      "inputValue": 100,
+      "type": "FIXED"
+    },
+    {
+      "feeName": "UW Fee",
+      "inputValue": 150,
+      "type": "PERCENTAGE"
+    }
+  ],
+  "status": 200,
+  "response": {
+    "resultInfo": {
+      "codeId": "000001",
+      "code": "SUCCESS",
+      "message": "Success",
+      "status": "S"
+    },
+    "data": {
+      "advanceAmount": 20000,
+      "minAdvanceAmount": 10000,
+      "maxAdvanceAmount": 20000,
+      "fees": [
+        {
+          "id": "d319f1b4-62e0-474f-a17a-8421f5ca9e0c",
+          "feeName": "PAD Fee",
+          "type": "FIXED",
+          "inputValue": 100,
+          "calculatedAmount": 100,
+          "minCalculatedAmount": 100,
+          "maxCalculatedAmount": 100,
+          "note": null,
+          "isDefault": true,
+          "sortOrder": 0
+        },
+        {
+          "id": "597e0139-61cf-4d8f-9f80-bf1b50c30ac3",
+          "feeName": "UW Fee",
+          "type": "PERCENTAGE",
+          "inputValue": 150,
+          "calculatedAmount": 30000,
+          "minCalculatedAmount": 15000,
+          "maxCalculatedAmount": 30000,
+          "note": null,
+          "isDefault": true,
+          "sortOrder": 1
+        }
+      ],
+      "buyouts": [],
+      "totalFees": 30100,
+      "totalBuyouts": 0,
+      "minTotalFees": 15100,
+      "maxTotalFees": 30100,
+      "minTotalBuyouts": 0,
+      "maxTotalBuyouts": 0,
+      "netFunding": -10100,
+      "minNetFunding": -5100,
+      "maxNetFunding": -10100
+    }
+  }
+}
