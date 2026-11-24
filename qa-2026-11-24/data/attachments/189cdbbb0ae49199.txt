@@ -1,0 +1,5 @@
+EPD configured in phase OFFER
+Payback $28,000.00
+Schedule: [(1, 15.0, 1200.0), (2, 10.0, 800.0)]
+Contract clause: Early Repayment. In the event Seller pays back the entire Purchased Amount within thirty (30) days, the Cost of Borrowing will be reduced by $1,200.00, for a total Payback Amount of $26,800.00. If Seller pays back the entire Purchased Amount within sixty (60) days, the Cost of Borrowing will be reduced by $800.00, for a total Payback Amount of $27,200.00. 2. SELLER OBLIGATIONS TO NOTIFY BANKS AND PROCESSORS AND FURNISH INFORMATION (a) Notice to Processor and Bank Appointed as Attorney. Seller shall promptly notify all current and future financial institutions where Seller holds deposit accounts (“Banks”) and all current and future credit card processors Seller engages or is engaged with (each, a “Processor”) of the sale and assignment to Buyer of the Purchased Percentage of Seller’s Future Receivables and Seller agrees to direct, instruct, and compel each Bank and Processor to transmit to Buyer, or debi
+Missing: none
