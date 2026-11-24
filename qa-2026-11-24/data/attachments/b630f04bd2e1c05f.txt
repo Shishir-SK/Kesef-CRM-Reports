@@ -1,0 +1,3 @@
+APP-2026-000256 v1 CONTRACT_SIGNED
+EPD schedule: [(1, 15.0, 6800.0), (2, 10.0, 7200.0)]
+Missing: ['no Early Payment Discount wording', 'Month 1 discounted COB $6,800.00', 'Month 2 discount 10.0%', 'Month 2 discounted COB $7,200.00']
