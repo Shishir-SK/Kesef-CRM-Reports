@@ -1,0 +1,1 @@
+{'user-management': {'grid': False, 'add': False}, 'role-management': {'grid': False, 'add': False}, 'permission-sets': {'grid': False, 'add': False}, 'teams': {'grid': False, 'add': False}}

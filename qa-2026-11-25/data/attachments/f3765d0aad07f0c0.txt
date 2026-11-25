@@ -1,0 +1,15 @@
+Merchant Call No Show
+Dear Shishir Sktwo,
+The scheduled merchant call for Kestrel Upholstery Enterprises Inc was not completed because the merchant did not attend.
+The merchant call needs to be rescheduled before the application can proceed.
+Application Details
+Application ID
+APP-2026-000259
+Business
+Kestrel Upholstery Enterprises Inc
+Merchant Name
+{{merchantContactName}}
+Reschedule Merchant Call
+Thank you.
+Best regards,
+Green Pointe Capital

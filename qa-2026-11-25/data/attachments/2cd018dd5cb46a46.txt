@@ -1,0 +1,7 @@
+POST /crm/api/applications/save
+------WebKitFormBoundaryiiXgHJAktiGLAQKM
+Content-Disposition: form-data; name="application"; filename="blob"
+Content-Type: application/json
+
+{"businessId":"ae813714-09a5-4b06-aecb-85fdbc013788","application":{"applicationType":"TOPUP","businessStatus":"NEW_APPLICATION","saveAsDraft":true,"salesRepId":"fa15994b-7c50-462d-816c-7e27db985db4","brokerageId":"764a85fc-354c-444d-b76a-2e9aa81ee6ae","isoManagerId":"203e6176-c6e3-4af6-ac06-3e8df2d7a455","selectedDealId":"04322545-a995-41d8-97da-b6cc88853d52","confirmedDuplicateKesefDealIds":["04322545-a995-41d8-97da-b6cc88853d52"]}}
+------WebKitFormBoundaryiiXgHJAktiGLAQKM--

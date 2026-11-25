@@ -1,0 +1,27 @@
+Merchant Call Rescheduled
+Dear Mei Gagne,
+The merchant call for Kestrel Upholstery Enterprises Inc has been rescheduled successfully.
+Please find the call details below.
+Merchant Call Details
+Application ID
+APP-2026-000259
+Business
+Kestrel Upholstery Enterprises Inc
+Merchant
+Mei Gagne
+Date
+26 November 2026
+Time
+12:00 PM
+Merchant Caller Representative
+Underwriter One
+Meeting Details
+Platform
+Google Meet
+Meeting ID
+zei-qqbh-axy
+Join Meeting
+Copy Meeting Link ⧉
+Please join the meeting at the scheduled time.
+Best regards,
+Green Pointe Capital

@@ -1,0 +1,28 @@
+{
+  "request": [
+    {
+      "amount": 500,
+      "date": "2026-11-25",
+      "lenderId": "b4e72fa7-d222-493f-8cc1-84c60b079a29"
+    }
+  ],
+  "status": 200,
+  "response": {
+    "resultInfo": {
+      "codeId": "000001",
+      "code": "SUCCESS",
+      "message": "Success",
+      "status": "S"
+    },
+    "data": [
+      {
+        "id": "ae5a2f83-2940-4908-becc-ba929a9c73bc",
+        "lenderId": "b4e72fa7-d222-493f-8cc1-84c60b079a29",
+        "lenderName": "Fundifi",
+        "amount": 500.0,
+        "date": "2026-11-25",
+        "notes": null
+      }
+    ]
+  }
+}

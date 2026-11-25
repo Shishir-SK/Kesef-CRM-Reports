@@ -1,0 +1,158 @@
+Row: QA Role Grant Maple Springs
+QA Role Grant Set Maple Springs
+Inbox
+1 Modules • 1 Permissions
+User Defined
+0
+Inactive
+Nov 25, 2026
+Ashika Shetty
+
+Details: QA Role Grant Maple Springs
+Close
+Edit Role
+
+Permission Sets
+
+QA Role Grant Set Maple Springs
+Permissions
+
+Application
+
+None
+
+Off
+
+Dashboard
+
+None
+
+Off
+
+Offer
+
+None
+
+Off
+
+Calculator
+
+None
+
+Off
+
+Contract
+
+None
+
+Off
+
+Access Management
+
+None
+
+Off
+
+Activity Logs
+
+None
+
+Off
+
+Reports
+
+None
+
+Off
+
+Deal
+
+View Deal(Organisation)
+
+On
+
+View Deal
+
+Organisation
+
+Create Deal
+
+Off
+
+Update Deal
+
+Off
+
+Commission Approval Deal
+
+Off
+
+Change Deal Type Deal
+
+Off
+
+Clawback Deal
+
+Off
+
+ISO / Sales / Brokerage Deal
+
+Off
+
+Merchant Call Deal
+
+Off
+
+Blacklist Deal
+
+Off
+
+Delete Deal
+
+Off
+
+Export Deal
+
+Off
+
+Payments
+
+None
+
+Off
+
+Communication
+
+None
+
+Off
+
+Merchant Call
+
+None
+
+Off
+
+Master Data
+
+None
+
+Off
+
+Application & Deal Rules
+
+None
+
+Off
+
+Fees & Funding
+
+None
+
+Off
+
+Notes
+
+None
+
+Off
