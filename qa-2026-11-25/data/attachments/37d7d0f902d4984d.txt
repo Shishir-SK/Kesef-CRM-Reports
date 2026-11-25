@@ -1,0 +1,2 @@
+Primary owner: Logan Ibrahim <notifications@mailzyng.com>
+Merchant Details: {'Merchant Name': 'Logan Ibrahim', 'Merchant Email': 'notifications@mailzyng.com'}
