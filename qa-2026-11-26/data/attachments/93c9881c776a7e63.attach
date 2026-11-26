@@ -1,0 +1,2 @@
+APP-2026-000388: ('STIPULATIONS', 'PENDING_VERIFICATION') -> reject ('STIPULATIONS', 'REJECTED_STIPULATIONS') -> undo (dialog: Pending Verification) -> ('STIPULATIONS', 'PENDING_VERIFICATION')
+Next step: verified Stipulations and generated the contract (CONTRACT_DRAFT)

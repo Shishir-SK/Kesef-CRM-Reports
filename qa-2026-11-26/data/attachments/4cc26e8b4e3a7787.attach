@@ -1,0 +1,2 @@
+APP-2026-000382: ('OFFER', 'REBUTTAL_REQUEST') -> reject ('OFFER', 'REJECTED_OFFER') -> undo (dialog: New File) -> ('UNDERWRITING', 'NEW_FILE')
+Next step: re-sent the offer; the new broker link offers ['Accept Offer', 'Reject Offer']

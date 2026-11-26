@@ -1,0 +1,2 @@
+APP-2026-000384: ('OFFER', 'OFFER_ACCEPTED') -> reject ('OFFER', 'REJECTED_OFFER') -> undo (dialog: New File) -> ('OFFER', 'OFFER_ACCEPTED')
+Next step: could not continue: Restored to OFFER_ACCEPTED, but the requirements link offers no action: https://kesefcrm.qa.codezyng.com/public/outstanding-requirements?token=j8l-NEMnVZirpHezVv5_ptU2P0cv_vipaCQqm_BP-Yg
