@@ -1,0 +1,1 @@
+{'Add User': "HTTP 403: {'detail': 'Insufficient permissions'}", 'Edit User': "HTTP 403: {'detail': 'Insufficient permissions'}", 'Add Role': "HTTP 403: {'detail': 'Insufficient permissions'}", 'Edit Role': "HTTP 403: {'detail': 'Insufficient permissions'}"}

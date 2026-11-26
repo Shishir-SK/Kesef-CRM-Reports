@@ -1,0 +1,80 @@
+Nov 25, 2026 | 1:08 AM
+
+Approved Amount
+
+$44,228.73
+
+Counter Offer
+
+Offer Amount
+
+$0 - $44,228.73
+
+Net Funding
+
+- $100 - $41,917.29
+
+Payback Amount
+
+$61,035.65
+
+Payment Amount
+
+$694 Daily
+
+Term
+
+88 Business Days
+
+Funding Position
+
+1st Position
+
+Buy Rate
+
+1.30
+
+Sell Rate
+
+1.38
+
+Funding Summary
+
+Min Offer Amount
+
+Gross Funding
+
+$0
+
+PAD Fee
+
+- $100
+
+UW Fee
+
+- $0
+
+Net Funding
+
+- $100
+
+Max Offer Amount
+
+Gross Funding
+
+$44,228.73
+
+PAD Fee
+
+- $100
+
+UW Fee
+
+- $2,211.44
+
+Net Funding
+
+$41,917.29
+
+Underwriting details
+Show Less

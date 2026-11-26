@@ -1,0 +1,418 @@
+Row: QA Role Grant Bayview Square
+QA Role Grant Set Bayview Square
+Inbox
+1 Modules • 1 Permissions
+User Defined
+0
+Inactive
+Nov 26, 2026
+Ashika Shetty
+
+Details: QA Role Grant Bayview Square
+Close
+Edit Role
+
+Permission Sets
+
+QA Role Grant Set Bayview Square
+Permissions
+
+Application
+
+None
+
+Off
+
+View Application
+
+Off
+
+Create Application
+
+Off
+
+Update Application
+
+Off
+
+Delete Application
+
+Off
+
+Export Application
+
+Off
+
+Dashboard
+
+None
+
+Off
+
+View Dashboard
+
+Off
+
+Create Dashboard
+
+Off
+
+Update Dashboard
+
+Off
+
+Delete Dashboard
+
+Off
+
+Offer
+
+None
+
+Off
+
+View Offer
+
+Off
+
+Create Offer
+
+Off
+
+Update Offer
+
+Off
+
+Delete Offer
+
+Off
+
+Export Offer
+
+Off
+
+Calculator
+
+None
+
+Off
+
+View Calculator
+
+Off
+
+Create Calculator
+
+Off
+
+Update Calculator
+
+Off
+
+Delete Calculator
+
+Off
+
+Contract
+
+None
+
+Off
+
+View Contract
+
+Off
+
+Create Contract
+
+Off
+
+Update Contract
+
+Off
+
+Delete Contract
+
+Off
+
+Export Contract
+
+Off
+
+Access Management
+
+None
+
+Off
+
+View Access Management
+
+Off
+
+Create Access Management
+
+Off
+
+Update Access Management
+
+Off
+
+Delete Access Management
+
+Off
+
+Export Access Management
+
+Off
+
+Activity Logs
+
+None
+
+Off
+
+View Activity Logs
+
+Off
+
+Export Activity Logs
+
+Off
+
+Reports
+
+None
+
+Off
+
+View Reports
+
+Off
+
+Export Reports
+
+Off
+
+Deal
+
+View Deal(Organisation)
+
+On
+
+View Deal
+
+Organisation
+
+Create Deal
+
+Off
+
+Update Deal
+
+Off
+
+Commission Approval Deal
+
+Off
+
+Change Deal Type Deal
+
+Off
+
+Clawback Deal
+
+Off
+
+ISO / Sales / Brokerage Deal
+
+Off
+
+Merchant Call Deal
+
+Off
+
+Blacklist Deal
+
+Off
+
+Delete Deal
+
+Off
+
+Export Deal
+
+Off
+
+Payments
+
+None
+
+Off
+
+View Payments
+
+Off
+
+Create Payments
+
+Off
+
+Update Payments
+
+Off
+
+Delete Payments
+
+Off
+
+Export Payments
+
+Off
+
+Communication
+
+None
+
+Off
+
+View Communication
+
+Off
+
+Create Communication
+
+Off
+
+Update Communication
+
+Off
+
+Delete Communication
+
+Off
+
+Export Communication
+
+Off
+
+Merchant Call
+
+None
+
+Off
+
+View Merchant Call
+
+Off
+
+Create Merchant Call
+
+Off
+
+Update Merchant Call
+
+Off
+
+Delete Merchant Call
+
+Off
+
+Export Merchant Call
+
+Off
+
+Master Data
+
+None
+
+Off
+
+View Master Data
+
+Off
+
+Create Master Data
+
+Off
+
+Update Master Data
+
+Off
+
+Delete Master Data
+
+Off
+
+Export Master Data
+
+Off
+
+Application & Deal Rules
+
+None
+
+Off
+
+View Application & Deal Rules
+
+Off
+
+Create Application & Deal Rules
+
+Off
+
+Update Application & Deal Rules
+
+Off
+
+Delete Application & Deal Rules
+
+Off
+
+Fees & Funding
+
+None
+
+Off
+
+View Fees & Funding
+
+Off
+
+Create Fees & Funding
+
+Off
+
+Update Fees & Funding
+
+Off
+
+Delete Fees & Funding
+
+Off
+
+Notes
+
+None
+
+Off
+
+View Notes
+
+Off
+
+Create Notes
+
+Off
+
+Update Notes
+
+Off
+
+Delete Notes
+
+Off
+
+View Archived Notes
+
+Off

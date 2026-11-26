@@ -1,0 +1,15 @@
+Your Merchant Call Was Missed
+Dear Mei Gagne,
+The scheduled merchant call for Kestrel Upholstery Enterprises Inc was not completed because the merchant did not attend.
+The call will be rescheduled so the application can proceed.
+No action is required from you at this time. We'll send you a new meeting invitation once the call has been rescheduled.
+Application Details
+Application ID
+APP-2026-000259
+Business
+Kestrel Upholstery Enterprises Inc
+Merchant Name
+{{merchantContactName}}
+Thank you.
+Best regards,
+Green Pointe Capital

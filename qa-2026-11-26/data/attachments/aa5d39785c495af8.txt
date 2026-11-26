@@ -1,0 +1,27 @@
+Merchant Call Rescheduled
+Dear Mateo Chen,
+The merchant call for Eastwood Cleaning Services Inc has been rescheduled successfully.
+Please find the call details below.
+Merchant Call Details
+Application ID
+APP-2026-000290
+Business
+Eastwood Cleaning Services Inc
+Merchant
+Mateo Chen
+Date
+28 November 2026
+Time
+12:00 PM
+Merchant Caller Representative
+Underwriter One
+Meeting Details
+Platform
+Google Meet
+Meeting ID
+goo-ygvi-shz
+Join Meeting
+Copy Meeting Link ⧉
+Please join the meeting at the scheduled time.
+Best regards,
+Green Pointe Capital

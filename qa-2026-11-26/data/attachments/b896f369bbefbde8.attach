@@ -1,0 +1,5 @@
+APP-2026-000359: READY_FOR_ANALYSIS status DRAFT LendPathway book None
+  bank-statement-2026-07.pdf: selected True, LendPathway NOT_SYNCED 
+  bank-statement-2026-06.pdf: selected True, LendPathway NOT_SYNCED 
+  bank-statement-2026-05.pdf: selected False, LendPathway NOT_SYNCED 
+  loan-application.pdf: selected True, LendPathway NOT_SYNCED 

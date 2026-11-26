@@ -1,0 +1,2 @@
+APP-2026-000290: ('CONTRACT', 'CONTRACT_DRAFT') -> ('CONTRACT', 'REJECTED_CONTRACT') -> undo -> ('CONTRACT', 'CONTRACT_DRAFT')
+Undo dialog: back to 'Contract Draft'

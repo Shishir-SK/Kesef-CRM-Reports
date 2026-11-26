@@ -1,0 +1,30 @@
+Deal ? (https://kesefcrm.qa.codezyng.com/deals/7fe83022-b33a-4d4b-bd82-9918e429ff81), application https://kesefcrm.qa.codezyng.com/applications/43f14770-e2d3-4f9f-aa84-00c86a3d0774
+OK  Funding Amount: source='$20,000' deal='$20,000'
+OK  Funding Amount (API): source=20000.0 deal=20000.0
+OK  Factor Rate: source=1.4 deal=1.4
+OK  Payback Amount: source='$28,000' deal='$28,000'
+OK  Payment Amount: source=1273 deal=1273
+OK  Repayment Frequency: source='Weekly' deal='Weekly'
+OK  Term: source='22 Weeks' deal='22 Weeks'
+OK  Funding Position: source='1st Position' deal='1st Position'
+OK  UW Fee %: source='5%' deal='5%'
+OK  UW Fee Amount: source='$1,000' deal='$1,000'
+OK  Pad Fee: source='$100' deal='$100'
+OK  Underwriter: source=True deal=True
+OK  Underwriter (API id): source='2734a7a4-f3b3-4072-ab64-498baef56d50' deal='2734a7a4-f3b3-4072-ab64-498baef56d50'
+OK  Merchant Name: source='Hannah Gauthier' deal='Hannah Gauthier'
+OK  Merchant Email: source='notifications@mailzyng.com' deal='notifications@mailzyng.com'
+OK  Merchant Email (API): source='notifications@mailzyng.com' deal='notifications@mailzyng.com'
+OK  Broker Commission: source='$800' deal='$800'
+OK  Broker Commission %: source='4%' deal='4%'
+OK  Broker Commission (API): source=800.0 deal=800.0
+OK  Broker Commission % (API): source=4.0 deal=4.0
+OK  Institution Number: source='003' deal='003'
+OK  Transit Number: source='12345' deal='12345'
+OK  Account Number: source='310081537410' deal='310081537410'
+OK  Financial Institution: source='Royal Bank of Canada' deal='Royal Bank of Canada'
+OK  Account Number (API): source='310081537410' deal='310081537410'
+OK  Buyouts (API): source=[('Fundifi', 1500.0)] deal=[('Fundifi', 1500.0)]
+OK  Is Buyout: source='Yes' deal='Yes'
+OK  Buyout lender Fundifi: source=True deal=True
+OK  Buyout amount 1,500.00: source=True deal=True

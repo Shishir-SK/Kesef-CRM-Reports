@@ -1,0 +1,2 @@
+APP-2026-000084: ('MERCHANT_CALL', 'CONTRACT_SIGNED') -> ('MERCHANT_CALL', 'REJECTED_MERCHANT_CALL') -> undo -> ('CONTRACT', 'CONTRACT_SIGNED')
+Undo dialog: back to 'Contract Signed'
