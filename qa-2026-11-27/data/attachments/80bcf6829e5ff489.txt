@@ -1,0 +1,2 @@
+Control Panel: $100.00 (from 2026-11-24)
+APP-2026-000432 contract: Insufficient Funds Fee. In the event any payment by Seller to Buyer is returned or otherwise not honoured or processed due to insufficient funds (“Insufficient Funds”), Seller agrees that Seller shall be charged a dishonoured payment fee, which shall not exceed twenty-five percent (25%) of the amount of the dishonoured payment, or a flat fee of $100.00, whichever number is greater (“Insufficient Funds Fee”). The Insufficient Funds Fee shal
