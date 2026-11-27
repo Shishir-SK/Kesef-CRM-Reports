@@ -1,0 +1,2 @@
+PUT /crm/api/merchant-call/configuration
+{"workingStartTime":"10:00","workingEndTime":"17:00","slotDurationMinutes":30,"bufferMinutes":30,"minimumBookingNoticeMinutes":30,"bookingLinkExpiryMinutes":1440,"rescheduleLinkExpiryMinutes":4320,"maximumRescheduleWindowMinutes":2880,"maximumNoShowCount":3,"timeZone":"America/Toronto"}

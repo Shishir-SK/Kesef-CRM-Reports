@@ -1,0 +1,3 @@
+offer sent -> ('OFFER', 'OFFER_MADE')
+broker rebuttal -> ('OFFER', 'REBUTTAL_REQUEST'), page status 'Rebuttal Request'
+internal reply offer -> ('OFFER', 'OFFER_MADE'), page status 'Offer Made'; offer history ['OFFER_MADE', 'REBUTTAL_REQUEST', 'COUNTER_OFFER_MADE']

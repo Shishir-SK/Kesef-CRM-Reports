@@ -1,0 +1,15 @@
+Merchant Call No Show
+Dear Veronica O,
+The scheduled merchant call for Eastwood Cleaning Services Inc was not completed because the merchant did not attend.
+The merchant call needs to be rescheduled before the application can proceed.
+Application Details
+Application ID
+APP-2026-000290
+Business
+Eastwood Cleaning Services Inc
+Merchant Name
+Mateo Chen
+Reschedule Merchant Call
+Thank you.
+Best regards,
+Green Pointe Capital

@@ -1,0 +1,31 @@
+Application Rejected — Merchant Call No Show
+Dear Underwriter One,
+The application for Eastwood Cleaning Services Inc has been rejected because the merchant did not attend 3 scheduled merchant calls.
+The application will not proceed further.
+Application Details
+Application ID
+APP-2026-000290
+Business
+Eastwood Cleaning Services Inc
+Merchant Name
+Mateo Chen
+Merchant Call History
+No.
+Date & Time
+Status
+01
+27 November 2026
+10:00 AM
+No Show
+02
+27 November 2026
+12:00 PM
+No Show
+03
+28 November 2026
+12:00 PM
+No Show
+No further action is required for this application.
+Thank you.
+Best regards,
+Green Pointe Capital

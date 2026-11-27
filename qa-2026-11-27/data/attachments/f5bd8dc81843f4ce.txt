@@ -1,0 +1,22 @@
+Merchant Call Scheduled
+Dear Veronica O,
+The merchant call for Trillium Signs Inc has been scheduled successfully.
+Please find the call details below.
+Merchant Call Details
+Application ID
+APP-2026-000334
+Business
+Trillium Signs Inc
+Merchant
+AA Automation Business R1125E
+Date
+27 November 2026
+Time
+12:00 PM
+Merchant Caller Representative
+Underwriter Three
+If you need to reschedule the call, please use the rescheduling option provided below.
+Reschedule Merchant Call
+The merchant has been notified of the scheduled call. Please ensure the merchant is available at the scheduled time.
+Best regards,
+Green Pointe Capital

@@ -1,0 +1,22 @@
+Merchant Call Rescheduled
+Dear Shishir Sktwo,
+The merchant call for dcecd dcds has been rescheduled successfully.
+Please find the call details below.
+Merchant Call Details
+Application ID
+APP-2026-000126
+Business
+dcecd dcds
+Merchant
+cddcsdc dsdsds
+Date
+28 November 2026
+Time
+10:00 AM
+Merchant Caller Representative
+Underwriter Two
+If you need to reschedule the call, please use the rescheduling option provided below.
+Reschedule Merchant Call
+The merchant has been notified of the scheduled call. Please ensure the merchant is available at the scheduled time.
+Best regards,
+Green Pointe Capital

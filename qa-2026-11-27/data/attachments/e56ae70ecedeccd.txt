@@ -1,0 +1,27 @@
+Merchant Call Rescheduled
+Dear cddcsdc dsdsds,
+The merchant call for dcecd dcds has been rescheduled successfully.
+Please find the call details below.
+Merchant Call Details
+Application ID
+APP-2026-000126
+Business
+dcecd dcds
+Merchant
+cddcsdc dsdsds
+Date
+28 November 2026
+Time
+10:00 AM
+Merchant Caller Representative
+Underwriter Two
+Meeting Details
+Platform
+Google Meet
+Meeting ID
+bzv-zpbb-ctp
+Join Meeting
+Copy Meeting Link ⧉
+Please join the meeting at the scheduled time.
+Best regards,
+Green Pointe Capital

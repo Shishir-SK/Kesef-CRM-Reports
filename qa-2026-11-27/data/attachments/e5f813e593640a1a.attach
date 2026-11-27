@@ -1,0 +1,5 @@
+APP-2026-000401: ANALYSIS_IN_PROGRESS status DRAFT LendPathway book 28d8a79d-7e0a-468d-b8ac-467599207542
+  bank-statement-2026-07.pdf: selected True, LendPathway SYNCED 
+  bank-statement-2026-06.pdf: selected True, LendPathway SYNCED 
+  bank-statement-2026-05.pdf: selected False, LendPathway NOT_SYNCED 
+  loan-application.pdf: selected True, LendPathway SYNCED 

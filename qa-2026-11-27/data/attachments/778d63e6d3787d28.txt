@@ -1,0 +1,6 @@
+APP-2026-000400: listing '06d', overview '06d' (API remainingExclusivityDays=6, effectiveDeadline=2026-12-07, reason=ACTIVE_WINDOW)
+APP-2026-000399: listing '06d', overview '06d' (API remainingExclusivityDays=6, effectiveDeadline=2026-12-07, reason=ACTIVE_WINDOW)
+APP-2026-000398: listing '05d', overview '05d' (API remainingExclusivityDays=5, effectiveDeadline=2026-12-04, reason=ACTIVE_WINDOW)
+APP-2026-000397: listing '-', overview '-' (API remainingExclusivityDays=None, effectiveDeadline=None, reason=REJECTED_STATUS)
+APP-2026-000391: listing '-', overview '-' (API remainingExclusivityDays=None, effectiveDeadline=None, reason=NO_WINDOW)
+APP-2026-000389: listing '-', overview '-' (API remainingExclusivityDays=None, effectiveDeadline=None, reason=REJECTED_STATUS)

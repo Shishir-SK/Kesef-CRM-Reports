@@ -1,0 +1,5 @@
+End: slider 46000, amount $45,753
+ArrowLeft: slider 45500, amount $45,500
+ArrowLeft: slider 45000, amount $45,000
+ArrowRight: slider 45500, amount $45,500
+End: slider 46000, amount $45,753

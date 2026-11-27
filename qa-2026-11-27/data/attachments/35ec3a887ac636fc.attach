@@ -1,0 +1,2 @@
+APP-2026-000413: ('CONTRACT', 'CONTRACT_SENT') -> reject ('CONTRACT', 'REJECTED_CONTRACT') -> undo (dialog: Contract Draft) -> ('CONTRACT', 'CONTRACT_DRAFT')
+Next step: sent and signed a new contract after undo (CONTRACT_SIGNED)

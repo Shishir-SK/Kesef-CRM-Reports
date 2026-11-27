@@ -1,0 +1,2 @@
+APP-2026-000056: ('OFFER', 'OFFER_ACCEPTED') -> ('OFFER', 'REJECTED_OFFER') -> undo -> ('OFFER', 'OFFER_ACCEPTED')
+Undo dialog: back to 'New File'

@@ -1,0 +1,1 @@
+{"offerId":"0edd8852-8310-4395-b88b-b7e1a6e6d6ea","type":"RANGE","expiresOn":"2026-12-07"}
