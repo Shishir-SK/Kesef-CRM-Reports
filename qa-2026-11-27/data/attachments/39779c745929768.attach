@@ -1,0 +1,2 @@
+APP-2026-000314: ('OFFER', 'OFFER_MADE') -> ('OFFER', 'REJECTED_OFFER') -> undo -> ('UNDERWRITING', 'NEW_FILE')
+Undo dialog: back to 'New File'

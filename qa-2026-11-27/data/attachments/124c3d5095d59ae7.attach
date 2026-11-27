@@ -1,0 +1,5 @@
+APP-2026-000421: start ('SUBMISSION', 'PARTIAL_SUBMISSION')
+discarded -> ('SUBMISSION', 'ARCHIVED')
+list headers ['Created On', 'CRM ID', 'Merchant Name', 'Business Name', 'Broker', 'Phase', 'Status', 'Deal ID', 'Lead Source', 'Deal Type', 'Exclusivity', 'DTI', "NSF's", 'Deposits', 'Industry', 'Assigned To', 'Last Update By', 'Last Update On']; row 'Nov 27, 2026 APP-2026-000421 Not yet provided Not yet provided Not yet provided Submission Archived - - - - - - - - Ashika Shetty Just now Nov 27 | 22:07'
+restored -> ('SUBMISSION', 'PARTIAL_SUBMISSION')
+page after Restore: https://kesefcrm.qa.codezyng.com/applications?search=APP-2026-000421
