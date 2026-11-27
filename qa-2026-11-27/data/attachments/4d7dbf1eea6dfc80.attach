@@ -1,0 +1,2 @@
+APP-2026-000440: ('OFFER', 'OFFER_ACCEPTED') -> reject ('OFFER', 'REJECTED_OFFER') -> undo (dialog: New File) -> ('OFFER', 'OFFER_ACCEPTED')
+Next step: submitted Outstanding Requirements through the new link (PENDING_VERIFICATION)
