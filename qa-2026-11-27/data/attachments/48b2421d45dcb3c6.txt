@@ -1,0 +1,5 @@
+existing: '1310532 B.c. Ltd.'
+typed first: '1310532 B.c. Ltd'
+messages: []
+Save disabled: False
+save responses: ['409 /crm/api/applications/save {"timestamp":"2026-11-27T10:07:53.365602661Z","resultInfo":{"codeId":"5285","code":"BUSINESS_NAME_ALREADY_EXISTS","message":"Business name already exists","status":"F"},"error":"Business name already exists"}']
