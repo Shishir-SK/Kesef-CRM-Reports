@@ -1,0 +1,7 @@
+10% -> C (expected C)
+15% -> B (expected B)
+20% -> B+ (expected B+)
+25% -> A (expected A)
+30% -> A+ (expected A+)
+40% -> A++ (expected A++)
+50% ->  (no band defined)
